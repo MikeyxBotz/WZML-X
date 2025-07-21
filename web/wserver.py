@@ -626,7 +626,7 @@ section span{
       </div>
       <div class="social">
         <a href="https://www.github.com/weebzone/WZML-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/WZML_X"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/IM_SUSANT"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -639,7 +639,7 @@ section span{
             placeholder="Enter the code that you have got from Telegram to access the Torrent"
           />
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary">SUSANT</button>
       </form>
           <span
             >* Dont mess around. Your download will get messed up.</
@@ -834,13 +834,13 @@ def homepage():
         <h1>WZML-X</h1>
     </div>
     <div class="content">
-        <img src="https://graph.org/file/639fe4239b78e5862b302.jpg" class="image">
-        <a href="https://telegram.me/WZML_X" style="text-decoration: none;">
+        <img src="https://files.catbox.moe/uhykxi.jpg" class="image">
+        <a href="https://telegram.me/SusantxBotz" style="text-decoration: none;">
             <button class="button">Join Updates Channel Now</button>
         </a>
     </div>
     <div class="footer">
-© 2022-23 WZML-X. All Rights Reserved.
+© 2022-23 SusantxBotz. All Rights Reserved.
     </div>
 </body>
 </html>
